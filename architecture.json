@@ -1,0 +1,160 @@
+{
+  "book_id": "postwar-existentialist-surrealist-colonial-aftermath",
+  "title": "THE INK OF FORGETTING",
+  "tagline": "In the ghost of an empire, a boy draws the borders of a self that does not yet exist.",
+  "target_words": 70000,
+  "actual_words": 72270,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Cartography of Erasure",
+    "Inherited Nostalgia",
+    "Surreal Decay of Empire",
+    "Drawing as Resistance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Cartographer's Bruise",
+      "words": 3011
+    },
+    {
+      "ch": 2,
+      "title": "The Geometry of Disregard",
+      "words": 3000
+    },
+    {
+      "ch": 3,
+      "title": "The Museum Curators",
+      "words": 3000
+    },
+    {
+      "ch": 4,
+      "title": "The Sound of Generators",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "Old Joseph's Nets",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "Mr. Cheltham's Pen",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "The Fort's Absence",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "The Ration Book Sky",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "A Parisian Painting in the Humidity",
+      "words": 3000
+    },
+    {
+      "ch": 10,
+      "title": "The Ghosts of LBW Decisions",
+      "words": 3000
+    },
+    {
+      "ch": 11,
+      "title": "The Mission Hospital on the Ridge",
+      "words": 3000
+    },
+    {
+      "ch": 12,
+      "title": "The Caves to the North",
+      "words": 3000
+    },
+    {
+      "ch": 13,
+      "title": "The Sea Chewing the Shore",
+      "words": 3000
+    },
+    {
+      "ch": 14,
+      "title": "Architecture of a Prison",
+      "words": 3000
+    },
+    {
+      "ch": 15,
+      "title": "The One Who Watches",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "Sovereign State of a Fingerprint",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Furious Milky Spill",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "A Colonial Child's Magic",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "Critiquing in Ghosts",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "The Patient, Tectonic Disregard",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "The Weight of Nostalgia",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "The Future's Heartbeat",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "What the Sky Roofed",
+      "words": 3000
+    },
+    {
+      "ch": 24,
+      "title": "The Shape of Collapse",
+      "words": 3011
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a map that erases a familiar landmark, replacing it with a personal memory.",
+      "Create a dialogue between a ghost of a colonial official and a local child, where they argue over the 'true' name of a hill.",
+      "Describe a ritual where the people of a town systematically 'un-name' a colonial building, giving each piece of it back to the elements.",
+      "Write a letter from Elias's mother to a friend in Paris, describing the 'glorious forgetting' of the English garden, 20 years after her arrival."
+    ],
+    "technical": [
+      "Build an interactive map where users can 'draw' new borders over a satellite image, with each stroke generating a micro-story of displacement or belonging.",
+      "Create a text generator that blends colonial administrative language with surreal, organic imagery (e.g., 'The minutes of the meeting tasted of cloves and decay.')."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "J.M. Coetzee",
+      "Italo Calvino",
+      "Arundhati Roy",
+      "Franz Kafka"
+    ]
+  },
+  "cover_prompt": "A young boy, his back to the viewer, meticulously drawing a complex, glowing map onto a crumbling, rain-slicked colonial-era wall, the ink defying gravity and seeping into the cracks of forgotten architecture, [within a surreal cityscape of decaying imperial monuments and overgrown vegetation, where ghostly, translucent figures of soldiers and bureaucrats wander aimlessly, and paper documents float like leaves in the damp air], [in the atmospheric style of Zdzisław Beksiński's surreal decay and the melancholic, textured brushwork of Anselm Kiefer], [book cover framing, a centered and intimate low-angle shot looking up at the boy and his luminous creation, emphasizing the scale of decay against his small act of defiance], [dramatic chiaroscuro lighting with a single, cold light source illuminating the boy and his ink, casting long, distorted shadows, within a desaturated color palette of concrete grays, mossy greens, and the ethereal, bioluminescent blue of the drawn map], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
