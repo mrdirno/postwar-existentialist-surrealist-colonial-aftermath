@@ -1,6 +1,9 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The cartographer’s pen had bled a new border across my father’s land, a line of India ink that smelled of cloves and decay. I pressed my thumb into the wet parchment, smearing the colony into a bruise. The official merely sighed, dipped his nib again, and drew my fingerprint around the stain, naming it a sovereign state.
+
 
 It was not a grand theft. Not a whole, vaulted dome of it. Just a piece, a ragged swatch the colour of a day-old bruise, torn from the horizon where the sea met the nothing. I stole it with my eyes, then with the stub of charcoal I kept in my pocket, smearing it onto the blank ration-book page. The act was quiet, desperate. A colonial child’s magic: if I could take the sky into my hands, then perhaps the sky, and the world it roofed, did not yet own me completely.
 
@@ -100,7 +103,9 @@ That night, I dreamed of stones dreaming. And in their dreams, I was small, and 
 
 ---
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The ministry car was a black beetle, polished to a predatory shine, sucking up the dust of our driveway. It did not belong. Its very geometry was an insult to the soft, decaying edges of Port James.
 
@@ -232,7 +237,9 @@ Or perhaps, for a final one.
 
 ---
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 We left at dawn, under a sky the colour of cold ash. Father carried a leather satchel bulging with notebooks, a brass compass, and a canteen. I had a small pack with water, a little food, and my ration book, now dangerously close to full. He had dressed for a Victorian exploration: sturdy boots, khaki trousers tucked into socks, a wide-brimmed hat. I wore what I always wore.
 
@@ -354,11 +361,13 @@ I knew then that Cheltham, with his clipboard, and the ledger-ghost, and the ban
 
 And I knew I had to find a different way to see. Before the world either got filed away, or treated into oblivion, or worse—before I started seeing blank faces in the mirror, and felt the urge to make lists of my own.
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The first thing I stole the next morning was a sound.
 
@@ -373,10 +382,7 @@ Breakfast was a museum of normalcy. Mother placed a plate of papaya before me, i
 She finally met my gaze. Her eyes were the colour of the sea under cloud, holding depths I had no line to sound. “Of treatment,” she said simply. Then she took my empty plate, though I had not eaten.
 
 The stone in my chest grew heavier. A residue. He was already turning the nun, the ledger, the awful, repeating intention, into a footnote. Something to be catalogued under ‘P’ for ‘Phenomena, Aberrant.’ I pushed back from the table. The need to move, to act against the filing, was a physical pressure in my limbs.
-
-  
-
-Scene 1
+  - Scene 1
 
 My first challenge was the town itself.
 
@@ -415,10 +421,7 @@ It was the first true thing anyone had said to me since we returned. It did not 
 He held up a section of the net, a complex web of squares. “You must see the holes, Elias-boy. The things that are not there. The white man, he sees only the string. He sees the plan, the design, the thing he has made. He fills the holes with names—‘mackerel,’ ‘shark,’ ‘profit.’ But the hole itself? It is nothing. It is everything. It is what the water flows through. It is what the fish chooses. To mend a net, you must honour the hole. You must know its shape, or you will strangle the whole design.”
 
 He went back to work. I stared at the net until my eyes lost focus, until what I saw was not the twine, but the negative spaces, the thousand little windows onto the bleached boards of the wharf behind. A lattice of absences. It was a new way of seeing. My first real theft of the day: the shape of a hole.
-
-  
-
-Scene 2
+  - Scene 2
 
 My third challenge was the ledger.
 
@@ -428,15 +431,15 @@ The room smelled of him: of pipe tobacco, mildew, and the faint, acidic tang of 
 
 My father’s handwriting was a regiment of disciplined spikes and curves. The entries were not just numbers. They were judgements.
 
- Specimen 447: Psittacula eupatria. Vivid green plumage degraded to greyish mould. Sign of atmospheric malaise. Noted 14th.
- Phenomenon 23: Auditory echo in eastern gully. Repeats sound of rainfall on corrugated iron, though date is dry. Possibly a psychic impression of the ’37 floods. Filed under ‘Hauntings, Hydrological.’
- Observation 88: Native fisherman ‘Joseph’ demonstrates atypical knot-tying technique. Efficiency rating: high. Cultural significance: negligible. Potential for adoption in standard practices?
+ Specimen 447: Psittacula eupatria. Vivid green plumage degraded to greyish mould. Sign of atmospheric malaise. Noted 14th.*
+ Phenomenon 23: Auditory echo in eastern gully. Repeats sound of rainfall on corrugated iron, though date is dry. Possibly a psychic impression of the ’37 floods. Filed under ‘Hauntings, Hydrological.’*
+ Observation 88: Native fisherman ‘Joseph’ demonstrates atypical knot-tying technique. Efficiency rating: high. Cultural significance: negligible. Potential for adoption in standard practices?*
 
 I felt sick. This was his net. And he saw only the string. He was trying to name the holes, to fill them with his own definitions until nothing of the original, flowing mystery remained.
 
 But then, near the bottom of the right-hand page, a new entry. Fresh ink.
 
- Phenomenon Alpha (Provisional): Encountered 17th, deep jungle, grid reference Delta-Seven. Manifestation: humanoid, non-corporeal, attire consistent with extinct Missionary order. Behaviour: iterative, non-aggressive. Observed engaging in compulsive cataloguing behaviour (see attached sketch). Hypothesis: Not a ghost (see refutation of spiritualist theory, Appendix B), but a psychic scar. A fragment of concentrated colonial intention—the diagnostic/curative impulse of the Mission—left adrift post-abandonment. A purposeless purpose. Potential for contagion? Observation of subject Elias (juvenile, sensitive) recommended. Note: Subject’s propensity for unsanctioned sketching may provide useful data.
+ Phenomenon Alpha (Provisional): Encountered 17th, deep jungle, grid reference Delta-Seven. Manifestation: humanoid, non-corporeal, attire consistent with extinct Missionary order. Behaviour: iterative, non-aggressive. Observed engaging in compulsive cataloguing behaviour (see attached sketch). Hypothesis: Not a ghost (see refutation of spiritualist theory, Appendix B), but a psychic scar. A fragment of concentrated colonial intention—the diagnostic/curative impulse of the Mission—left adrift post-abandonment. A purposeless purpose. Potential for contagion? Observation of subject Elias (juvenile, sensitive) recommended. Note: Subject’s propensity for unsanctioned sketching may provide useful data.*
 
 I stopped breathing. Subject Elias. I was no longer his son. I was a column in his ledger, a potential vector for ‘contagion.’ My sketches were ‘unsanctioned data.’ The stone in my chest turned to ice.
 
@@ -463,10 +466,7 @@ She shook her head. “Joseph knows the sea. This is a sickness of the land. Of 
 Anya Malcolm. A name I knew only as a rumour. A girl who didn’t come to town, who was said to be ‘touched’ by the jungle. A story to frighten children. My father would have filed her under ‘Degeneracy, Suspected.’
 
 My mother had just filed her under ‘Hope.’
-
-  
-
-Scene 3
+  - Scene 3
 
 The north track was a green tunnel, a vein into the island’s quieter heart. The challenge now was endurance. The sun was a hammer on the canopy, driving the humidity down into the air like nails. Every rustle in the undergrowth was a potential list-maker, a flutter of bandages. I saw the nun in every pale, slender tree trunk.
 
@@ -499,10 +499,7 @@ It wasn’t a question. The relief of being believed, of being understood withou
 “How do you know all this?”
 
 For the first time, a flicker of something crossed her face. Not fear. Something older. Grief. “I was in the Mission school. The last one. I had the fever. I lived. The others… didn’t. I saw the sisters leave. They didn’t just close the door. They willed it shut. They poured all their failure, their guilt, their useless devotion into that act. You can’t pour that much intention into a place and expect it to just… soak away. It pools. It grows a shape.” She stood, brushing pea-dust from her skirt. “Come. I’ll show you what she’s really after.”
-
-  
-
-Scene 4
+  - Scene 4
 
 She led me not to the Mission ruins, but to a place behind the bungalow: a small, overgrown cemetery. Not the official colonial one, but a private plot. The Malcolm family graves. And one other, smaller, off to the side under a frangipani tree.
 
@@ -550,11 +547,13 @@ A case for specimen slides.
 
 The hook that pulled me into the next chapter was not fear of the faceless nun. It was the sight of my father, already preparing a glass plate and a label, for me.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The plan was a theft. Not of a thing, but of a void. We would steal the absence of a face and replace it with a name so heavy it would break the scales. It was a child’s logic, the only kind I had ever trusted. If you cannot fight the monster, give it a birthday. Make it real. Make it owe the world something.
 
@@ -607,7 +606,7 @@ Typhoon Maria, 1932. Village was not evacuated. Designated ‘non-viable’ by D
 
 My hand did not shake. The words were cold, clean. They were the words that had always been written about us. About this place. We were just changing the name on the form.
 
-Post-event survey identified one survivor. Female child, approx. age 6. Found clinging to a kapok tree. No identification. Designated: Grey Sister Initiative, Candidate 7. Baptised: Marguerite. (Patron saint of lost causes.)
+Post-event survey identified one survivor. Female child, approx. age 6. Found clinging to a kapok tree. No identification. Designated: Grey Sister Initiative, Candidate #7. Baptised: Marguerite. (Patron saint of lost causes.)
 
 There it was. The conversion. From a child of a drowned village, a statistic of depreciation, to a numbered candidate, to a saint’s name. A perfect audit trail. We were not inventing. We were reconstructing the hole.
 
@@ -624,8 +623,7 @@ Leo took the pen. His handwriting was a beautiful, precise copperplate, the hand
 “Then we have given her a true name,” I said. “And she will have to live with it. Or die with it.”
 
 The wind picked up, whistling through the lighthouse struts. It sounded like a low, constant note of inquiry. The sea below us was the colour of tarnished lead. We had our plan. A theft of absence. A gift of grief. It was the only kind of magic left in a world that had been fully accounted for.
-
-The journey to the old mission was not a crossing of space, but a descent into a deeper stratum of silence.
+  - The journey to the old mission was not a crossing of space, but a descent into a deeper stratum of silence.
 
 We left before first light, when the world was a study in grey values. Anya led, moving through the jungle’s edge not like a trespasser, but like a thought passing through a mind. Leo and I followed, our footsteps clumsy echoes. We did not take the overgrown plantation road. That was a throat, and we would not walk into a mouth. We took the pig trails, the forgotten lines of resistance, paths made by creatures and people who did not wish to be seen.
 
@@ -656,8 +654,7 @@ But she was already moving, finding fingerholds in the stone where the mortar ha
 The climb was a struggle against decay. Stone flaked away under my fingers. Wood pulped to the touch. Every hold was a betrayal. Halfway up, my foot slipped on a slick patch of moss and I swung out, my heart a frantic bird in my throat, before finding purchase again. Below me, Leo was frozen, his face pale, his arms trembling. He was not built for this physical kind of heresy. He was a forger of documents, a poisoner of files. I reached down, gripped his wrist, and hauled him up to the balcony’s edge. It groaned under our combined weight, a long, low sound of protest.
 
 We tumbled through the window frame into the dark.
-
-The room was a cathedral of dust.
+  - The room was a cathedral of dust.
 
 Light fell in heavy, moted columns from holes in the roof, illuminating a landscape of shrouded shapes. Desks. Chairs. A skeletal loom. And shelves. Endless shelves, rising into the gloom, filled not with books, but with boxes. Uniform, grey cardboard boxes, each labelled with a neat, typed hand. I knew that hand. It was the same as in the ledgers.
 
@@ -722,8 +719,7 @@ Subject: Elara.
 It looked absurdly small. A single sheet against the tonnes of filed history in this room. A whisper in a vault.
 
 It was everything we had.
-
-We left the way we came, descending the rotten balcony into the green gloom. The journey back should have felt like a retreat, but it didn’t. It felt like the long, held breath after a trigger has been pulled. The action was done. The theft was committed. The ghost was planted. Now there was only the waiting for the echo.
+  - We left the way we came, descending the rotten balcony into the green gloom. The journey back should have felt like a retreat, but it didn’t. It felt like the long, held breath after a trigger has been pulled. The action was done. The theft was committed. The ghost was planted. Now there was only the waiting for the echo.
 
 We did not speak until we broke from the rubber trees and saw the sea again, a vast, grey expanse of unanswered questions. The sky was the colour of a fresh bruise, deepening towards evening. I had a sudden, vivid memory of that first stolen piece of it. It had not saved me. But it had made me a thief. And that was the only self I had.
 
@@ -783,11 +779,13 @@ The system was preparing its label. And I, the thief, had prepared my own.
 
 The collision would be the next chapter.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The silence answered with a key in a lock.
 
@@ -1094,11 +1092,13 @@ The collision was not over. It had just become a chase.
 
 And in the east, the sky was the colour of a fresh bruise, tender and new. I stole it with my eyes, and knew I would never stop.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The first thing I stole was a breath.
 
@@ -1113,10 +1113,7 @@ Elara’s breathing, beside me, began to slow from a gallop to a trot. The wild 
 It was a feeble joke, but it landed in the space between us like a shared secret. The victory was a fragile, living thing in my chest, beating its wings against my ribs. We had done it. We had turned their own machinery into a weapon of chaos. The ledger, with its damning, beautiful truth, was a seed planted in the sterile soil of their control. Let it grow thorns in their throats.
 
 This was the reward, the knowledge I claimed from the ordeal: I was not a subject to be catalogued. I was a verb. An act of resistance made flesh. The hook in my chest, that old, familiar pull, was no longer a tether to a past of stolen skies. It was a compass needle, forged in the fire of the riot, and it pointed only forward.
-
-  
-
-We did not stay in the hollow. Dawn was a reluctant grey seep along the edge of the world, leaching the darkness of its power. Light would make ghosts of us, transparent and vulnerable. We moved like shadows along the cliff paths, away from the harbour, away from the new ship that crawled like a beetle across the silk of the sea.
+  - We did not stay in the hollow. Dawn was a reluctant grey seep along the edge of the world, leaching the darkness of its power. Light would make ghosts of us, transparent and vulnerable. We moved like shadows along the cliff paths, away from the harbour, away from the new ship that crawled like a beetle across the silk of the sea.
 
 Elara knew the coast in a way the maps in the Residency did not. Her knowledge was not of names and contours, but of textures and gaps. She led us to a place where the cliff face had slumped in some ancient complaint, creating a shallow cave curtained by tough, sea-whip grass. It was not a home. It was a pause in the sentence.
 
@@ -1143,20 +1140,14 @@ Elara looked at me, waiting. Her silence was an invitation to continue the narra
 She considered this, her eyes on the ship now entering the harbour mouth, its sails furled like folded wings. “A story within a story. They’ll hunt in the text they wrote. We’ll hide in the one they ignored.”
 
 It was a plan built on metaphor and hope. It was the only kind we had.
-
-  
-
-The celebration was not a feast. It was a shared look, a minute of unspoken accord as we plotted our route. It was Elara producing, from an inner pocket, a small, waxy packet. She unfolded it to reveal two squares of hard, dark sugar, stolen from some forgotten Residency pantry.
+  - The celebration was not a feast. It was a shared look, a minute of unspoken accord as we plotted our route. It was Elara producing, from an inner pocket, a small, waxy packet. She unfolded it to reveal two squares of hard, dark sugar, stolen from some forgotten Residency pantry.
 
 “Commissary contraband,” she said, handing one to me. “The fuel of insurrection.”
 
 I placed it on my tongue. The sweetness was shocking, a burst of condensed sunlight in the grey cave. It was a taste from before, from a childhood of ration books and measured ounces. But now, it was stolen. Now, it was ours. We ate in silence, letting the sugar dissolve, a slow sacrament. Our clarity was this: we were two against the machine, but the machine was stupid. It knew how to crush, but not how to see. We were a splinter in its vision, a blur it would try to wipe away.
 
 For an hour, we were not hunted. We were just two people in a cave, sharing sugar and a terrible, wonderful freedom. The world shrank to the sound of the sea below, the scratch of grass in the wind, the warmth of our shoulders almost touching. I stole that hour. I took it with my whole self and hid it away behind my ribs.
-
-  
-
-The machine’s reaction was not slow. It was geological. It did not hurry; it simply exerted pressure, and the world deformed around it.
+  - The machine’s reaction was not slow. It was geological. It did not hurry; it simply exerted pressure, and the world deformed around it.
 
 We saw the first sign from our cliffside perch. A column of smoke, not from the Residency chimney, but from the town. Too black, too thick. Then the bells began—not the orderly toll of the Customs House bell, but the frantic, uneven clang of the town’s alarm.
 
@@ -1193,10 +1184,7 @@ He stumbled back, his cry turning from alarm to self-preservation.
 We ran. Not with the frantic energy of before, but with a directed, desperate speed. We hit the first alley of the Old Town and the world changed. The straight lines ended. The air grew thick with smells of unfamiliar cooking, of damp earth, of life packed close. The sounds of the bells and the fire became muffled, distant. The light fractured, falling in narrow shafts between leaning eaves.
 
 We pressed ourselves into a doorway, breathing hard. The pursuit did not immediately follow. The guard’s world stopped at the edge of the marsh. He would report, but the search would have to be re-authorized, re-planned. We had bought minutes.
-
-  
-
-The reward had made us a bigger target. The clarity had a price. We were no longer a nuisance, a ghost in the machinery. We were a systemic threat. We had proven their containment was a fiction. In response, they were willing to burn their own assets, to turn the sea into a patrol route, to stretch their authority into places they had previously only pretended to own.
+  - The reward had made us a bigger target. The clarity had a price. We were no longer a nuisance, a ghost in the machinery. We were a systemic threat. We had proven their containment was a fiction. In response, they were willing to burn their own assets, to turn the sea into a patrol route, to stretch their authority into places they had previously only pretended to own.
 
 We were hunted now not for what we knew, but for what we were: a flaw in the premise of their entire project.
 
@@ -1216,11 +1204,13 @@ The chase was no longer just behind us. It was now also ahead, taking shape on t
 
 I looked up, through a narrow slit of sky between the roofs. It was the colour of tarnished silver, of a knife left in the rain. I stole it with my eyes. I would need all the sky I could get.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The first thing I stole was a silence.
 
@@ -1293,8 +1283,7 @@ I looked at Elara. The names we had were not ours. The names we were born with w
 “Liran,” I said. The word felt strange on my tongue. A belonging.
 
 The printer nodded, as if they were satisfactory. Real. He set to work, his movements precise, alchemical. He was not just making documents; he was building us a past, a provenance. A new premise from which to exist. We watched, the sounds of the search a distant, muffled drumbeat through the thick walls. We were in the belly of the old book now, being typeset.
-
-The chase began not with a sighting, but with a smell.
+  - The chase began not with a sighting, but with a smell.
 
 We had left the printer’s at first light, our new skins paper-dry and fragile in our pockets. We were Kai and Liran, hill-orphans, our eyes downcast, our postures softened by a loss we had not lived. The Old Town was stirring, opening its shutters, its markets. We moved through it, trying to wear our new words. Scribe. Apprentice. Grief.
 
@@ -1438,11 +1427,13 @@ We had written ourselves into the clear. But the ink was still wet. And from the
 
 The story was not over. It was just entering a new, more dangerous clause.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The last thing I stole was a name.
 
@@ -1465,8 +1456,7 @@ She nodded. To be quiet was to listen. To listen was to hear the world’s seams
 We found our quiet in the old botanical annexe, a place the colony had built to catalogue stolen greenery and then forgotten. The glass of the greenhouse was a cataract, smeared with decades of grime and salt. Inside, the air was a wet fist. Ferns uncurled in the half-light like sleeping hands. Things that had no name here grew in desperate, silent profusion.
 
 It was here, amid the stolen sky-plants, that the last test found me.
-
-Scene 1
+  - Scene 1
 
 It began as a scent. Not the rich decay of the soil, but something metallic, medicinal. It cut through the vegetative damp like a scalpel.
 
@@ -1529,8 +1519,7 @@ The test was over. I had chosen not to steal, not to lie, but to declare. The la
 Kai let out a long, slow breath. “The precursor to a smile,” she said, echoing the wharf.
 
 This time, the smile arrived. It was small. It was mine.
-
-Scene 2
+  - Scene 2
 
 The quiet did not last. The Residency’s corrections would not be stayed by one clerk’s failure. The audit would become an inquest. The inquest, a hunt.
 
@@ -1601,8 +1590,7 @@ We had defeated him. Not by killing him. By rendering his authority fictional. B
 He sank back into his chair, not in defeat, but in a kind of horrified calculation. The hunt was over. The prey had walked into the hunter’s house and changed the definition of the hunt.
 
 We turned and left him there, surrounded by his shelves of dead stories, listening to the living one roar outside his walls. We walked back across the deck, past the guard who was now staring in confusion toward the shore. We walked down the gangplank, two clerks dissolving into the chaos we had authored.
-
-Scene 3
+  - Scene 3
 
 We did not run. We walked out of the Residency gates as the crowd poured in, a river of ragged humanity breaching the stone levees. We were carried by the current for a moment, then spilled into a side-alley.
 
@@ -1631,8 +1619,7 @@ The hook in my chest was gone. In its place was a quiet, steady hum. A compass w
 I looked up, through the narrow gap between the roofs. The sky was the colour of a fresh bruise, healing at the edges with the first hint of dawn. I did not want to steal it. I did not want to own it.
 
 “We write the aftermath,” I said.
-
-Scene 4
+  - Scene 4
 
 We walked until the city’s clamour faded into the morning birdsong of the headlands. We climbed the path to the old fort, the crumbling molar against the gumline of the land.
 
@@ -1670,11 +1657,13 @@ The next page was not here. It was out there.
 
 And we had just run out of ink.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The first thing I returned was a name.
 
@@ -1725,8 +1714,7 @@ I reached into my pocket. Not for charcoal. For a seed. I had taken it from a ha
 He stared at the seed as if it were a word in a language he had forgotten. He did not take it. But he nodded at the earth beside the potato row. “There. If it fails, it won’t interfere.”
 
 I pressed the seed into the dark, damp fold. It was not an apology. It was not a reconciliation. It was a clause. A new sentence started in the text of our history. We would see how it grew.
-
-The elixir was not gold. It was not a secret power. It was a method of seeing.
+  - The elixir was not gold. It was not a secret power. It was a method of seeing.
 
 I brought it to the back room of the old lighthouse, where the Keepers of the Unwritten Record met. The room smelled of damp paper, seaweed, and the oil they used to clean the great lens above us. They were there: Hana, with her hands permanently stained blue from mimeograph ink; Liam, the former archivist’s clerk, who could forge any official hand with a flick of his wrist; and a few new faces, sharp and watchful.
 
@@ -1759,8 +1747,7 @@ I shared the elixir: the vision of the story as a living, replicating cell. It w
 We began that night. Under the slow, sweeping eye of the lighthouse, we worked. We wrote the old names in careful script. We listed connections to land and sea that no checkbox could contain. We created personas, whole families with histories longer than the colony itself, and gave them life on the page. It was quiet, desperate magic. We were not forging papers anymore. We were forging a people, in the only place the empire would recognise—on its own forms.
 
 It was healing, of a sort. The world’s wound was knowing. Our medicine was telling. And we would tell, and tell, and tell, until the telling became the world.
-
-My old life was a shell on the headland. I went to it one last time, at dusk.
+  - My old life was a shell on the headland. I went to it one last time, at dusk.
 
 The shack I had shared with my ghosts and my stolen skies leaned more heavily into the wind. The door groaned on its hinges. Inside, the air was stale, thick with memory and salt. My drawings were still pinned to the walls—my early, clumsy thefts of cloud and rock. They seemed like the work of a different person. A thief who believed the act of taking was enough.
 
@@ -1822,11 +1809,13 @@ The next page was not here. It was out there, on the darkening water, under the 
 
 And we had just sharpened the pencil.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The first thing I drew in the new place was a line.
 
@@ -1843,10 +1832,7 @@ It was. A small, defiant column of steam from the little tin pot over our driftw
 Our new routine was built from salvage.
 
 We rose with the gulls. I drew the line of the tide. Kai walked the high strand, collecting what the sea had discarded: bottle-glass worn to jewels, planks grey as old teeth, lengths of rope like discarded veins. We mended nets that were not ours. We patched the boat’s skin with tar and cloth. We spoke in the shorthand of people who have shared a silence so profound it becomes its own language. The colonial aftermath, I was learning, was not a single event but a daily practice. It was the careful sorting of what was useful from what was poison. It was learning to build a fire without permission.
-
-  
-
-Scene 1
+  - Scene 1
 
 My pocket was no longer for ration books. It held charcoal, a whetstone for Kai’s knife, a single rusted fishhook wrapped in cloth. The rituals of the ship, of the hidden press, had been translated. Now, the first light was for mapping our small dominion. The charcoal moved over scraps of waterproofed canvas, not drawing the cliff’s imposing whole, but its details: the fissure where fresh water wept, the ledge where the white birds nested in a noisy parliament, the fallen giant of a tree, its roots a petrified net clutching air.
 
@@ -1857,10 +1843,7 @@ Kai watched me one morning, her hands busy braiding a new rope from gathered fib
 She nodded, her fingers never faltering. Her thefts were more practical. She stole knowledge from the tide’s rhythm, the best pools for mussels, the way the wind changed an hour before rain. She stole time from the long dusk by mending, by planning, by staring at the cliff as if reading a text in a language of cracks and shadows.
 
 Our old life was a ghost limb. Sometimes I’d wake and for a breath, I’d be waiting for the scratch of the official’s pen, the weight of the hook in my heart. Then I’d see the rough weave of our shelter’s roof, hear the sea’s patient exhalation, and the phantom ache would fade. The centre had not held. We were the edges now. And the edges, I was discovering, had their own centre, their own gravity.
-
-  
-
-Scene 2
+  - Scene 2
 
 The boy came on the eighth day.
 
@@ -1913,10 +1896,7 @@ He looked from his extended line to my face, the hunger in his eyes sharpening i
 Kai handed him a bowl of broth. “Eat first. Then we’ll talk about shuttles. How to make one from what you have, not what they took.”
 
 As he ate, ravenous, I saw the journey begin in him. Not across the sea, but inward, into the wreckage of his world, armed with a new, subversive question: not what is missing, but what can be remade? We were passing on the medicine. The story was dispersing.
-
-  
-
-Scene 3
+  - Scene 3
 
 The thread from the past arrived on the wind, three days later.
 
@@ -1953,10 +1933,7 @@ We shared tea from Ben’s flask, a bitter, strong brew. He passed us a packet�
 He looked at our beach, our shelter, the thin line of smoke from our fire. He saw the order in it, the new language. “You’re doing it right,” he grunted. “You’re not hiding. You’re… homesteading. On the frontier of the unwritten.” With a final nod, he cast off. “I’ll be back this way with the mackerel run. If you’re gone, I’ll know the story needed moving.”
 
 We watched his skiff until it was a speck, a punctuation mark on the grey sea. The thread was tied off, not with a knot of finality, but with a fisherman’s bend—secure, but easy to undo when needed.
-
-  
-
-Scene 4
+  - Scene 4
 
 That evening, I did not draw.
 
@@ -1971,10 +1948,7 @@ Kai’s stained fingers laced with mine. “It’s enough, isn’t it?” she mu
 “It’s more than enough,” I said, and meant it. The vast, unmade future had condensed into this moment: the smell of woodsmoke and seaweed, the solid weight of her beside me, the knowledge that we were a line in a story that continued elsewhere, carried by old sailors and feral boys. We were a clause in a sentence that had no end, only commas, and breaths, and new lines.
 
 The first star appeared, sharp above the black line of the cliff. Then another. Not a hook, not a pull. Just points of light, holding up the dome of the dark. I did not need to steal this sky. It was a gift. And I knew how to hold it.
-
-  
-
-The peace broke with the dawn, but not with guns.
+  - The peace broke with the dawn, but not with guns.
 
 It broke with a sound. A low, resonant, mechanical groan that was utterly alien to the voice of the wind and the sea. It came from beyond the headland, from the open ocean side of the cliff.
 
@@ -2000,11 +1974,13 @@ Kai’s hand was tight in mine. The contentment of the night before was not shat
 
 The story had a new heading. And we, with our charcoal and our mended nets, were standing directly in its path.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The last thing I stole was a sky.
 
@@ -2114,11 +2090,13 @@ The last thing I stole was a sky. And now, I was giving it back, reflected in th
 
 I turned and stepped inside, closing the door on the night, leaving the new lights on the horizon to keep their watch until morning. Our story was not concluding. It was simply turning a page.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The first thing I gave away was a story.
 
@@ -2302,11 +2280,13 @@ The first thing I gave away was a story. And now, I was walking into the heart o
 
 I turned and stepped into the forest’s breath, leaving the known world behind.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The forest’s breath was not air. It was a substance, a green and liquid silence that flowed over the skin and pooled in the lungs. It tasted of damp stone and crushed fern, of pollen and slow decay. The light did not fall here; it dripped, filtered through a thousand layers of living canopy into a perpetual, submarine twilight. Sound was swallowed whole, leaving only the intimate noise of our own passage: the wet suck of boots on moss, the rustle of a sleeve against a trunk, the rhythm of our breath, too loud in the quiet.
 
@@ -2444,11 +2424,13 @@ As we re-entered the swallowing green of the forest, the hook of that word settl
 
 We were being proposed to.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The first thing I heard was a question.
 
@@ -2497,8 +2479,7 @@ From the dark, a single click returned. Not a sentence. A period. An acknowledgm
 Then, silence again, but it was a different quality of silence. The attention had shifted, softened. The question had not been answered, but it had been noted.
 
 When Aedon stirred to take the last watch, he glanced at my drawing in the faint pre-dawn light. He said nothing, but gave a slow, almost imperceptible nod. It was not approval. It was recognition. A first, halting step towards a correct pronunciation.
-
-Dawn came as a slow leaching of grey into black. The forest revealed itself not as individual trees, but as a single, breathing entity, a great, ragged lung of green exhaling mist. We ate a cold, quick meal. The air tasted of damp earth and something else—a sharp, clean scent like ozone after a lightning strike, but older, more mineral.
+  - Dawn came as a slow leaching of grey into black. The forest revealed itself not as individual trees, but as a single, breathing entity, a great, ragged lung of green exhaling mist. We ate a cold, quick meal. The air tasted of damp earth and something else—a sharp, clean scent like ozone after a lightning strike, but older, more mineral.
 
 “The Grove lies there,” Aedon said, pointing with his chin, not his hand, towards a fold between two massive slopes. No path was visible. “We walk quietly. We step where I step. We touch only what I touch. The Kith are not hostile. They are… particular. A broken branch is a shout. A crushed leaf is an insult.”
 
@@ -2629,11 +2610,13 @@ The first thing I stole was a sky. The next thing I had to give was an apology, 
 
 The scar was singing. And tomorrow, I would have to learn its words.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The scar did not sing. It wept.
 
@@ -2737,11 +2720,13 @@ I held onto it. A single word in the long, slow apology.
 
 The hook in my chest, the barb named by the Kith, tugged not towards the scar, but back towards the Grove. I had listened. I had a fragile answer. Now I had to speak it to the ones who had asked, and whose judgment would determine if my probation was a path forward, or merely a longer road to exile. The ghost-roots on my page awaited the verdict of the living wood.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The proposal was a living thing, and like all living things, it was fragile in the dawn.
 
@@ -2869,11 +2854,13 @@ I looked at my hands, stained with ochre soil and the faint, metallic dust of th
 
 The probation was not over. It had merely changed its venue. The verdict of the living wood was passed. Now, something older, or wider, or hungrier, was calling for an accounting. The ghost-roots on the page had been judged. Now, the thief who had found them was being summoned.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The second thing I stole was a summons.
 
@@ -3000,11 +2987,13 @@ And the sentence was extinction.
 We ran, not east, but west, back towards the Grove, as the silent, silver geometry of annihilation lit the hills behind us. The hook was no longer a summons. It was a fuse, burning down towards the powder-keg of my own stolen, desperate choices. The thief had finally broken into the vault he was always meant to rob.
 And found it empty, save for the warden, and a receipt for a debt now due in full.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The first thing I stole was a sky. The last thing I stole was a world, and now the world was sending its receipt, written in light.
 
@@ -3192,11 +3181,13 @@ The thief had broken into the vault and found the ledger. He had expected a verd
 
 The sky above was empty, and it was all mine to owe.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The first thing I repaid was a leaf.
 
@@ -3378,11 +3369,13 @@ The instalments were no longer monthly. They were perpetual, breath by breath, a
 
 It felt like the first true line of a story I was finally allowed to write.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The first thing I learned was the weight of a root.
 
@@ -3540,11 +3533,13 @@ The hook was in my hand. The story was mine to write.
 
 But first, I had to survive the interview.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The hum was not a sound. It was a pressure. A slow, tectonic compression of the air ahead of the vehicle’s prow. It flattened the twilight, ironed out the subtle gradients of shadow between the trees, replaced the scent of salt and loam with the sterile tang of charged ceramics and recycled atmosphere. It was the sound of a system arriving to inspect itself. The Grove’s breath hitched, a sympathetic tightening in the roots, a shiver through the canopy that had nothing to do with wind.
 
@@ -3732,11 +3727,13 @@ But in the silence after the hum had faded, I heard the first, distant echo of t
 
 They would come to burn the library.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The silence after the hum was a different kind of sound. It was the ringing in your ears after a gunshot, the hollow left behind when a tooth is pulled. It was not an absence, but a presence. The quiet of a held breath. The quiet of a predator waiting upwind.
 
@@ -4034,11 +4031,13 @@ They could burn the library.
 
 But they could not unread the book.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The first thing I returned was a sky.
 
