@@ -2,7 +2,10 @@
 
 ## **CHAPTER 1**
 
-The cartographer’s pen had bled a new border across my father’s land, a line of India ink that smelled of cloves and decay. I pressed my thumb into the wet parchment, smearing the colony into a bruise. The official merely sighed, dipped his nib again, and drew my fingerprint around the stain, naming it a sovereign state.
+Cairo’s dust tasted of rust and forgotten sugar. It coated the back of his throat, this grit that was once a palace, a market, a man. He walked through a city that remembered itself differently, its avenues now sketched in phantom lines across his tongue.
+
+
+
 
 
 It was not a grand theft. Not a whole, vaulted dome of it. Just a piece, a ragged swatch the colour of a day-old bruise, torn from the horizon where the sea met the nothing. I stole it with my eyes, then with the stub of charcoal I kept in my pocket, smearing it onto the blank ration-book page. The act was quiet, desperate. A colonial child’s magic: if I could take the sky into my hands, then perhaps the sky, and the world it roofed, did not yet own me completely.
