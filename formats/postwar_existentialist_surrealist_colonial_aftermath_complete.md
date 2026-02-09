@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The cartographer’s pen had bled a new border across my father’s land, a line of India ink that smelled of cloves and decay. I pressed my thumb into the wet parchment, smearing the colony into a bruise. The official merely sighed, dipped his nib again, and drew my fingerprint around the stain, naming it a sovereign state.
@@ -100,6 +102,8 @@ I closed the book quickly, as if I could shut the door I’d just imagined. I la
 That night, I dreamed of stones dreaming. And in their dreams, I was small, and I was walking toward a door that was not a door, and from behind it came a sound like pages turning, and a smell like rain on hot dust, and the feeling of being watched by something that had no eyes.
 
 ---
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -232,6 +236,8 @@ I finished the cigarette, the ember a tiny, fierce eye in the dark. Friday was t
 Or perhaps, for a final one.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
